@@ -1,0 +1,181 @@
+# Photo Gallery
+
+https://www.behance.net/gallery/101970539/Doctor-Consultation-Website-Design
+
+    https://avada.theme-fusion.com/daycare/#
+    https://avada.theme-fusion.com/photography/portfolio-items/landscape/#iLightbox[landscape]/5
+    https://themes.semicolonweb.com/html/canvas/demo-coworking-single.html
+    https://themes.semicolonweb.com/html/canvas/demo-pet.html#
+    https://themes.semicolonweb.com/html/canvas/demo-photography.html
+
+    # Group photo Gallery
+        https://themes.semicolonweb.com/html/canvas/demo-photography.html
+
+# Social Icons
+
+    https://avada.theme-fusion.com/agency/contact-us/
+    https://themes.semicolonweb.com/html/canvas/demo-pet.html#
+
+# Font exemple 
+
+    Poppins
+    Helvetica Neue
+    Helvetica
+
+# News
+    
+    #Filter Blocks:
+
+        https://preview.themeforest.net/item/sandbox-modern-multipurpose-bootstrap-5-template/full_screen_preview/32441701?_ga=2.238191618.384505068.1648810714-2050230781.1648810714
+
+    # News post list
+
+        https://themes.semicolonweb.com/html/canvas/demo-pet.html#
+        https://themes.semicolonweb.com/html/canvas/demo-news.html
+
+# Slider
+
+    # Detail content slider (Opacity)
+
+        https://themes.semicolonweb.com/html/canvas/demo-construction.html
+
+    # Indicator slider btn
+
+        https://garden.qtcmedia.com/home-4/
+
+# Carusel
+    https://www.okler.net/previews/porto/9.6.0/elements-carousels.html
+    https://www.okler.net/previews/porto/9.6.0/portfolio-single-carousel.html
+    https://www.okler.net/previews/porto/9.6.0/page-services.html
+
+# Who We Are faqs
+
+    https://www.okler.net/previews/porto/9.6.0/about-us-advanced.html
+    https://www.okler.net/previews/porto/9.6.0/demo-transportation-logistic.html
+
+
+#404 ! 500
+    https://www.okler.net/previews/porto/9.6.0/page-404.html
+    https://www.okler.net/previews/porto/9.6.0/page-500.html
+
+# Intrebari Raspunsuri
+    https://www.okler.net/previews/porto/9.6.0/page-careers.html
+    https://sandbox.elemisthemes.com/docs/faq.html
+
+
+https://avada.theme-fusion.com/nutritionist/about/
+
+https://photoswipe.com/events/
+1
+
+
+
+
+
+
+
+
+                  <div class="menu__bar">
+                    <span class="style-ffn">
+                        <span class="clock-with">22:40:15</span>
+                    </span>
+                    <span class="style-ffn">
+                        <span class="phone-with"><a href="tel:022518453">+373 22 518 453</a></span>
+                    </span>
+                    <span class="style-ffn">
+                        <span class="dark-mode"><span class="material-icons">dark_mode</span></span>
+                        <span class="light-mode"><span class="material-icons">light_mode</span></span>
+                    </span>
+                    <span class="lang_detect style-ffn">
+                        <span class="curent_lang_pc  srtyl_lt">RO</span>
+                        <span class="cont_btn ">
+                            <span class="srtyl_lt" value="ro">RO</span>
+                            <span class="srtyl_lt" value="ru">RU</span>
+                            <span class="srtyl_lt" value="en">EN</span>
+                        </span>
+                    </span>
+                    <span class="style-ffn">
+                        <span class="search-mode"><span class="material-icons">search</span></span>
+                    </span>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+http://172.21.1.201/FacturaClient/
+administrator
+
+
+//// Maps
+
+https://www.freepik.com/free-vector/gradient-india-map-infographics_12689556.htm#page=9&query=info&position=5&from_view=search
+
+
+
+
+
+
+
+
+
+
+
+
+////// Websites
+
+
+
+
+
+
+
+
+
+https://www.freepik.com/free-vector/maths-online-course-economics-university-department-internet-classes-accounting-lessons-bookkeeping-mathematics-textbooks-digital-archive_12085843.htm#&position=1&from_view=detail#query=a&position=1&from_view=detail#position=1
+https://www.freepik.com/free-vector/distance-university-courses-academic-degree-self-education-internet-classes-school-online-lessons-e-learning-college-student-cartoon-character_12085837.htm#&position=3&from_view=detail#query=a&position=3&from_view=detail#position=3
+https://www.freepik.com/free-vector/master-degree-achievement-higher-education-knowledge-gaining-university-graduation_12085878.htm#&position=12&from_view=detail#&position=12&from_view=detail
+https://www.freepik.com/free-vector/preparing-test-together-learning-studying-with-friends-effective-revision-revision-timetables-planning-how-revise-exams-concept-pinkish-coral-bluevector-isolated-illustration_11663371.htm#&position=4&from_view=detail#&position=4&from_view=detail
+https://www.freepik.com/free-vector/university-graduation-achievement-higher-education-academic-degree-successful-student-jumping-holding-mortarboard-personal-development_12085875.htm#&position=7&from_view=detail#&position=7&from_view=detail
+https://www.freepik.com/free-vector/clever-man-student-standing-books-stack-with-flag-self-learning-personal-improvement-knowledge-obtaining-educational-achievement_12145586.htm
+https://www.freepik.com/free-vector/clipboard-with-list-big-school-backpack-ruler-student-with-magnifier-back-school-checklist-list-stationery-school-planner-concept_12085832.htm
+https://www.freepik.com/free-vector/student-graduation-cap-using-computer-desk_5562402.htm#page=2&query=student%20study%20university&position=13&from_view=search
+https://www.freepik.com/free-vector/student-studying-chemistry-desk_5562409.htm?query=student%20%20study%20%20university
+https://www.freepik.com/free-vector/young-people-holding-blank-banner_5238139.htm?query=personal
+https://www.freepik.com/free-vector/coworkers-cartoon-characters-effective-collaboration-coworkers-cooperation-teamwork-colleagues-discussing-solution-successful-interaction_11669042.htm#query=partner&from_query=partener&position=0&from_view=search
+https://www.freepik.com/free-vector/integration-migrants-abstract-concept-vector-illustration-society-accepted-migrants-integration-courses-study-school-learn-foreign-languages-reading-book-refugee-group-abstract-metaphor_11663849.htm#&position=4&from_view=detail#from_query=p&position=4&from_view=detail
+https://www.freepik.com/free-vector/magnifying-glass-with-file-searching_5481505.htm#query=info&position=45&from_view=search
+https://www.freepik.com/free-vector/set-school-subjects_16220913.htm#page=2&query=history&position=45&from_view=search
+https://www.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_10487786.htm#query=software&position=2&from_view=search
+https://www.freepik.com/free-vector/isometric-people-working-with-technology_5083803.htm#query=software&position=4&from_view=search
+https://www.freepik.com/free-vector/back-school-landing-page-template_9009511.htm#page=6&query=school&position=23&from_view=search
+
+
+
+
+DS3719001933RR
+
+
+info&position
+https://www.freepik.com/free-vector/modern-degrade-infographic-steps-with-broken-shapes_3454522.htm#page=4&query=info&position=1&from_view=search
+
+https://www.freepik.com/free-vector/merry-christmas-happy-new-year-background-shimmering-golden-particles-dark-background-abstract-holiday-background_19464747.htm#query=event&position=41&from_view=search
+https://www.freepik.com/free-vector/project-deadline-date-planning-workflow-organization-time-optimization-agenda-office-event-management-isolated-design-element-company-managers_12083051.htm#page=3&query=event&position=21&from_view=search
+https://www.freepik.com/free-vector/colleagues-preparing-corporate-party-time-management-deadline-brand-event_12085253.htm#query=events&position=4&from_view=search
+
+
+
+981082ff-3d77-4817-94b8-423fa7273d22
+
+
+
+filter: drop-shadow(0 0 35px rgba(0,0,0,.06));
+
+    background-color: #F0EBDE;
